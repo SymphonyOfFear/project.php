@@ -1,10 +1,10 @@
 <body>
-    
+    <nav>
+        <ul>
+            <li>
+                <a href="show.php?waarde1=Voornaam: Mikey <b> waarde2=Achternaam: Smit <b> waarde3=Leeftijd:%18">Mijn Gegevens</a>
+            </li>
+        </ul>
 
-<nav>
-    <h1>Over Mij</h1>
-    <h2>Voornaam: </h2>
-    <h2>Achternaam: </h2>
-    <h2>Leeftijd: </h2>
-</nav>
+    </nav>
 </body>
