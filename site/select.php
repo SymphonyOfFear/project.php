@@ -13,6 +13,7 @@
             <li>
                 <a href="show.php?waarde1=Snoop%20Dog&waarde2=Dr%20Dre">Snoop dog en Dr Dre</a>
             </li>
+
         </ul>
     </nav>
 </body>
